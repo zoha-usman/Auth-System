@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FurebaseAuthSystem</string>
+    <string name="Registeremail">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="Loginemail">Email</string>
+    <string name="LoginPassword">Password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="Login_sign_up">Sign Up</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="or">OR</string>
+    <string name="home">Home</string>
+    <string name="log_out">Log Out</string>
+    <string name="login">Login</string>
+    <string name="menu">Menu</string>
+    <string name="well_come">Well Come</string>
+    <string name="auth_system">Auth System</string>
+    <string name="wellcom_to_auth_system">Wellcome To AuthSystem</string>
+    <string name="navigationOpen">Open Navigation drawer</string>
+    <string  name="navigationClosed">Closed Navigation drawer</string>
+</resources>
